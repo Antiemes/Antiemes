@@ -2,6 +2,10 @@
 
 [Teaching material - Oktatási anyagok 📚👨🏻‍🎓](teaching.md)
 
+[Research](research.md)
+
+[Demoscene](demoscene.md)
+
 <!--
 **Antiemes/Antiemes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
