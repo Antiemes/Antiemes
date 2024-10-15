@@ -1,4 +1,4 @@
-#Teaching / Oktatás
+# Teaching / Oktatás
 
 ## Számítógép hálózatok
 
