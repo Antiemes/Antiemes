@@ -1,6 +1,6 @@
 # Teaching / Oktatás
 
-## Számítógép hálózatok
+## Számítógép hálózatok 🖧🌐📡
 
  * [Linux alapok](https://github.com/Antiemes/Szamitogep_halozatok)
  * [Cisco Packet Tracer](https://github.com/Antiemes/Packet_Tracer)
