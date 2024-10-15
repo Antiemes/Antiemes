@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[Teaching material - Oktatási anyagok 📚](teaching.md)
+[Teaching material - Oktatási anyagok 📚👨🏫](teaching.md)
 
 <!--
 **Antiemes/Antiemes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
