@@ -16,6 +16,12 @@
 
 [Source](https://github.com/Antiemes/Shader_Shaper)
 
+### Dashi (2.6k)
+
+[Pouet](https://www.pouet.net/prod.php?which=97898)
+
+[Source](https://github.com/Antiemes/Dashi)
+
 ## Mircocontroller demos
 
 ### Gravity Waves
