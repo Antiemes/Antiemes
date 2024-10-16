@@ -2,7 +2,7 @@
 
 [Teaching material - Oktatási anyagok 📚👨🏻‍🎓](teaching.md)
 
-[Research](research.md)
+[Research](research/research.md)
 
 [Demoscene](demoscene/demoscene.md)
 
