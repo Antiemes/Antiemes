@@ -26,6 +26,11 @@
 
 ### Gravity Waves
 
+Platform: Arduino Uno
+
+ - ATmega328P + 128x64 I2C OLED display for the visuals
+ - ATmega16u2 + RC lowpass filter for audio
+
 [Pouet](https://www.pouet.net/prod.php?which=89874)
 
 [Youtube](https://www.youtube.com/watch?v=0_5xzSqeFAI)
