@@ -4,7 +4,7 @@
 
 [Research](research.md)
 
-[Demoscene](demoscene.md)
+[Demoscene](demoscene/demoscene.md)
 
 <!--
 **Antiemes/Antiemes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
