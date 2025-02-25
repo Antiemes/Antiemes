@@ -9,6 +9,10 @@
 
  * [Gyakorlati anyag](https://github.com/Antiemes/OS_gyak)
 
+## Informatikai rendszerek biztonságtechnikája 🕵️🛡️
+
+ * [Órai anyagok](https://github.com/Antiemes/Infobizt)
+
 ## Node-Red 🔗🔴
 
  * [Node-Red 🇬🇧](https://github.com/Antiemes/NodeRed_examples)
